@@ -4,17 +4,13 @@
 
 **HiSQLite3 (SQLite3 Blueprint For UE5)**
 
-**UE Marketplace:** 
+**UE Marketplace:** https://www.unrealengine.com/marketplace/en-US/product/hisqlite3-sqlite3-blueprint-for-ue5
 
 # Short Description：
 
-New fully reimplemented in UE5, supports all target platforms. This UE5 plugin lets your UE project easily read and write SQLite3 database files. Only need to use the Blueprint Functions, you can easily execute the SQLite3 database's CRUD(Create, Retrieve, Update, and Delete) operations. The **free UE4 version** is:https://shorturl.at/euBMT
+New fully reimplemented in UE5, supports all target platforms. This UE5 plugin lets your UE project easily read and write SQLite3 database files. Only need to use the Blueprint Functions, you can easily execute the SQLite3 database's CRUD(Create, Retrieve, Update, and Delete) operations.
 
 # Long Description：
-
-**Note**, this is the new **UE5 version**. The **free UE4 version** is: https://www.unrealengine.com/marketplace/en-US/product/hisqlite3-sqlite3-for-ue4
-
-
 
 **This is a UE C ++ plugin that lets your UE project easily read and write SQLite3 database files.** 
 
